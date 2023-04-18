@@ -1,0 +1,12 @@
+header {background-color: #00AEC3; padding: 10px 0 10px 0;}
+.title {color: #fff;font-family: 'Encode Sans', sans-serif;margin: auto;}
+.carousel {height: 500px;}
+.slide {height: 500px;}
+.carousel-inner {height: 500px;border-bottom: 25px solid #00AEC3;}
+.carousel-caption {padding-bottom: 200px;}
+h5 {color: #fff;}
+.btn {background: linear-gradient(to bottom, #07c4dd, #dcebed);background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+ .text {font-size: 20px;color: #07c4dd;text-align: center;width: 50%; margin: auto; padding-top: 100px;}
+ footer {color: #fff; background-color: #07c4dd; margin-top: 50px; padding: 10px; text-align: center;}   
