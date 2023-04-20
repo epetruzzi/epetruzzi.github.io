@@ -1,12 +1,12 @@
-header {background-color: #00AEC3; padding: 10px 0 10px 0;}
-.title {color: #fff;font-family: 'Encode Sans', sans-serif;margin: auto;}
-.carousel {height: 500px;}
+header {background-color: #fff; padding: 10px 0 10px 0; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);position: sticky; top: 0; z-index: 1;}
+.logo {width: 15vw;}
+.title {color: #07c4dd;font-family: 'Encode Sans', sans-serif;margin: auto;}
+.carousel {height: 500px;margin-top: 10px;}
 .slide {height: 500px;}
-.carousel-inner {height: 500px;border-bottom: 25px solid #00AEC3;}
+.carousel-inner {height: 500px;border-bottom: 15px solid #00AEC3;}
 .carousel-caption {padding-bottom: 200px;}
 h5 {color: #fff;}
-.btn {background: linear-gradient(to bottom, #07c4dd, #dcebed);background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;}
- .text {font-size: 20px;color: #07c4dd;text-align: center;width: 50%; margin: auto; padding-top: 10px;padding-bottom: 100px;}
+.btn {background-color: #07c4dd; border: none;}
+.btn:hover {background-color: #07c4dd; border: none;}
+ .text {font-size: 20px;color: #414042;;text-align: center;width: 50%; margin: auto; padding-top: 10px;padding-bottom: 100px;}
  footer {color: #fff; background-color: #07c4dd; margin-top: 50px; padding: 10px; text-align: center;}   
